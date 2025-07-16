@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💬 MERN Stack Chat App  
 
 A **real-time private chat application** built using the **MERN Stack (MongoDB, Express, React, Node.js)** with **Redux Toolkit** for state management and **Socket.IO** for instant messaging.  
@@ -47,4 +48,23 @@ So basically:
 ---
 
 ## 📂 Project Structure  
+=======
+# 💬 React + Vite Chat App
+
+A modern real-time chat application built using **React**, **Redux**, and **Vite**. Features include user authentication, profile management, and live messaging — all wrapped in a fast and scalable frontend.
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ **React** — UI library
+- ⚡ **Vite** — blazing fast build tool
+- 🧠 **Redux Toolkit** — state management
+- 🛠️ **React Router** — page navigation
+- 💅 **Tailwind CSS / CSS Modules** (customize as needed)
+- 🌐 **Socket.IO** (optional for real-time features)
+
+---
+
+>>>>>>> 7b9bf63cf0cb15282d0877fece596f90195817d5
 
